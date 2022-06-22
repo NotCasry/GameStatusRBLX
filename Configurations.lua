@@ -14,8 +14,6 @@ Settings.RestartDelay = 5
 Settings.MinimumPlayers = 1
 Settings.MaximumPlayers = 2
 
-
-Settings.AllowToChangeGameStateValue = true
 Settings.AssetsFolderName = "Assets"
 
 -- In-Game Functions
